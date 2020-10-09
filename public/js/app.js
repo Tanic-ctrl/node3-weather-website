@@ -1,5 +1,3 @@
-// console.log('Client side javascript file is loaded!')
-
 //Fetch es una popular API de recuperaciòn que no forma parte de node js, por lo que utilizaremos javascript del lado del cliente. 
 // fetch('http://puzzle.mead.io/puzzle').then((response) => {
 //     response.json().then((data) => {
